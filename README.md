@@ -17,3 +17,7 @@ to this in your browser, and you can call your Go code from devtools.
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
+
+## Attributions
+
+<a href="https://www.flaticon.com/free-icons/cooking" title="cooking icons">Icon adapted from Cooking Icon created by Freepik - Flaticon</a>
